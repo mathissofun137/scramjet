@@ -36,7 +36,7 @@
         <script>
         //<![CDATA[
           (async function () {
-            var base = "https://cdn.jsdelivr.net/gh/mathissofun137/scramjet@main/";
+            var base = "https://cdn.jsdelivr.net/gh/mathissofun137/scramjet";
             var url = base + "standalone-frontend.html?t=" + Date.now();
             var XHTML = "http://www.w3.org/1999/xhtml";
 
